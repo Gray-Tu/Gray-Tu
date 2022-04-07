@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 📝 My [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-TW&user=EfBxA9gAAAAJ)
 <!--
 **Gray-Tu/Gray-Tu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
