@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📝 My [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-TW&user=EfBxA9gAAAAJ)
-- 📃 My [Resume](https://resume.io/r/O2W14U10a)
+- 📃 My [Resume](https://www.yourator.co/r/f7ff3c67-6ce5-4add-9007-fc237ba206c3)
 <!--
 **Gray-Tu/Gray-Tu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
